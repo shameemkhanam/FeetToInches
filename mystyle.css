@@ -1,0 +1,33 @@
+body{
+  font-family: tahoma;
+
+}
+
+.container{
+  width: 70%;
+  margin: 0 auto ;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+h1{
+  text-align: center;
+}
+#equal{
+  margin-top: 50px;
+}
+
+.inpt{
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  width: 200px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+label{
+  font-size: 20px;
+}
